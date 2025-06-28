@@ -80,7 +80,7 @@ const BuyBooks = () => {
       }
     } else if (paymentMethod === 'upi') {
       const options = {
-        key: 'rzp_test_yUub2bdFAKhXLh',
+        key: 'rzp_test_owgbcWO6j2ha4V',
         amount: total * 100,
         currency: 'INR',
         name: 'Your Company Name',
